@@ -32,9 +32,6 @@ Welcome to my Drag & Drop JS Project! This repository showcases a dynamic and in
 2. Open `index.html` in your preferred web browser.
 3. Drag the items from the left container to the right container and experience the smooth drag-and-drop functionality.
 
-### Demo
-
-![Drag and Drop Demo](drag_drop_demo.gif)
 
 ### Author
 
@@ -44,5 +41,3 @@ Welcome to my Drag & Drop JS Project! This repository showcases a dynamic and in
 Feel free to explore, fork, and contribute to this project. Your feedback and suggestions are always welcome!
 
 ---
-
-This description highlights your skills in creating a functional, user-friendly application with a clean and modern design. It emphasizes your proficiency in HTML, CSS, and JavaScript, showcasing your ability to handle event-driven programming and responsive design principles.
